@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Caner Cırık
-- 👀 I’m interested in being fornt edn developer
+- 👀 I’m interested in being fornt end developer
 - 🌱 I’m currently learning C
 
