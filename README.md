@@ -11,7 +11,7 @@
 <p align='left'>
 <a href = 'https://www.linkedin.com/in/caner-cırık/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://github.com/canercrk'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href = 'https://twitter.com/caner_crk'> <img widht = '35px' align = 'center' src = "https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+<a href = 'https://twitter.com/caner_crk'> <img width = '35px' align= 'center' src = "https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
  
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=canercrk)
   
