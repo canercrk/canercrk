@@ -24,6 +24,7 @@
 <img width="44px" align='center' src="https://github.com/user-attachments/assets/5ba44a59-79af-4559-8ded-deb6eb37ccfb">
 <img width="44px" align='center' src="https://app.powerbi.com/13.0.26952.35/images/PowerBI_MasterLogo.svg">
 <img width="44px" align='center' src="https://github.com/user-attachments/assets/bd92f844-54a0-45f4-9356-d8408786e15a" />
+<img width="44px" align='center' src="https://github.com/user-attachments/assets/8789743e-6271-4db6-8f6a-4910ba42f70a" />
 <img width="44px" align='center' src="https://github.com/user-attachments/assets/1e553ddb-f02a-40f9-a4e8-6ab594e0921c" />
 <img width="44px" align='center' src="https://github.com/user-attachments/assets/ea46d422-4a83-42ab-8728-a0c9b06d4808" />
 <img width="44px" align='center' src="https://github.com/user-attachments/assets/02b776a2-1fd3-410c-b228-cd86a8e5cc00" />
