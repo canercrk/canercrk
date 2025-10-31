@@ -15,7 +15,6 @@ My expertise lies in driving measurable efficiency and ensuring successful proje
 <a href = 'https://github.com/canercrk'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href = 'https://twitter.com/caner_crk'> <img width = '35px' align= 'center' src = "https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
  
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=canercrk)
   
 
 
