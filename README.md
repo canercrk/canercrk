@@ -1,5 +1,7 @@
 <h1 align="left">Hi there, I'm Caner <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
-<h3 align="left"> I want to be a Frontend Developer. I love coding, writing, speaking and traveling. </h3>
+<h3 align="left"> Industrial Engineer specializing in process optimization and data-driven value creation. I leverage my strong analytical foundation, built upon my B.Sc. from Erciyes University and complemented by international coursework in Management Engineering (Erasmus) in Italy, to translate complex business challenges into clear, actionable technological solutions.
+
+My expertise lies in driving measurable efficiency and ensuring successful project delivery within an Agile framework: Developed Python-based tools for bottleneck analysis, enabling measurable time/cost savings and streamlined process flow. I am proficient in Agile (Scrum) methodologies, Jira/Confluence for end-to-end requirement management, and UML/SDLC documentation. Experienced in conducting Postman (API/Backend) tests and utilizing SQL for data validation, effectively bridging the communication gap between business stakeholders and IT teams. Designed interactive Power BI reports to visualize performance trends and support C-level decision-making. </h3>
 <h3 align="left"> Glad to see you here! :smile: </h3>
 
 
