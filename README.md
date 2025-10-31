@@ -22,11 +22,11 @@
 <p align='left'>
 <img width="44px" align='center' src="https://github.com/user-attachments/assets/09a66c8d-7123-4b6a-be0d-0fa60cea4ed0">
 <img width="44px" align='center' src="https://github.com/user-attachments/assets/5ba44a59-79af-4559-8ded-deb6eb37ccfb">
-<img width="44px" align='center' src="https://github.com/user-attachments/assets/6d321c7e-0d06-4894-a682-5972fe40ec24">
+<img width="44px" align='center' src="https://app.powerbi.com/13.0.26952.35/images/PowerBI_MasterLogo.svg">
 <img width="44px" align='center' src="https://github.com/user-attachments/assets/bd92f844-54a0-45f4-9356-d8408786e15a" />
 <img width="44px" align='center' src="https://github.com/user-attachments/assets/1e553ddb-f02a-40f9-a4e8-6ab594e0921c" />
-<img width="44px" align='center' src="https://github.com/user-attachments/assets/8e805449-22de-4aca-992d-b303dc352154" />
-<img width="44px" align='center' src="https://github.com/user-attachments/assets/c51420dc-2df4-4534-842b-7ecb5d67a114" />
+<img width="44px" align='center' src="https://github.com/user-attachments/assets/ea46d422-4a83-42ab-8728-a0c9b06d4808" />
+<img width="44px" align='center' src="https://github.com/user-attachments/assets/02b776a2-1fd3-410c-b228-cd86a8e5cc00" />
 <img width="44px" align='center' src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg">
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
