@@ -20,9 +20,9 @@
 
 <h2 align='left''> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
 <p align='left'>
-<img width="44px" align='center' src="https://github.com/user-attachments/assets/0e51d33b-c8d8-4788-aef3-a8aa8360d6ba" />
-<img width="44px" align='center' src="https://github.com/user-attachments/assets/949f422c-7e22-4f30-89ab-d16ca8efb7f8" />
-<img width="44px" align='center'  src="https://github.com/user-attachments/assets/09a66c8d-7123-4b6a-be0d-0fa60cea4ed0" />
+<img width="44px" align='center' src="https://github.com/user-attachments/assets/09a66c8d-7123-4b6a-be0d-0fa60cea4ed0">
+<img width="44px" align='center' src="https://github.com/user-attachments/assets/5ba44a59-79af-4559-8ded-deb6eb37ccfb">
+
 
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>  
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
