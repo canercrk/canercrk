@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Caner <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
 <h3 align="left"> As a data-driven Industrial Engineer, I leverage my analytical skills to enhance operational efficiency and deliver tangible cost savings. I have experience using Python, SQL, Power BI, and Tableau to develop process improvement solutions, perform data validation, and build interactive decision-support systems. My goal is to translate complex data into actionable strategies that are accessible and usable for everyone. Whether solving a bottleneck or designing critical dashboards for management, I focus on achieving measurable results. </h3>
 <h3 align="left"> Glad to see you here! :smile: </h3>
-## [🏆 Check Out My Full Portfolio Website](https://canercrk.github.io/My-Portfolio/)
+[🏆 Check Out My Full Portfolio Website](https://canercrk.github.io/My-Portfolio/)
 
 
 
