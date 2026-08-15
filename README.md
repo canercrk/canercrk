@@ -2,7 +2,7 @@
 <h3 align="left"> My professional identity is anchored in the analytical discipline of Industrial Engineering, specifically the pursuit of process optimization and value creation. I focus on translating complex business requirements into clear, actionable strategies within Agile methodologies, ensuring that every solution is not only robust but also strategically aligned with the company’s long-term growth. </h3>
 <h3 align="left"> Glad to see you here! :smile: </h3>
 
-### [🏆 Check Out My Full Portfolio Website](https://canercrk.github.io/My-Portfolio/)
+<!--### [🏆 Check Out My Full Portfolio Website](https://canercrk.github.io/My-Portfolio/)-->
 
 
 
