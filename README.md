@@ -1,5 +1,5 @@
 <h1 align="left">Hi there, I'm Caner <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
-<h3 align="left"> My professional identity is anchored in the analytical discipline of Industrial Engineering, specifically the pursuit of process optimization and value creation. I focus on translating complex business requirements into clear, actionable strategies within Agile methodologies, ensuring that every solution is not only robust but also strategically aligned with the company’s long-term growth. </h3>
+<h3 align="left"> I'm an Industrial Engineer focused on the intersection of engineering and financial decision-making, from factory layout to process planning and from investment feasibility to cost modeling and financial controls. </h3>
 <h3 align="left"> Glad to see you here! :smile: </h3>
 
 <!--### [🏆 Check Out My Full Portfolio Website](https://canercrk.github.io/My-Portfolio/)-->
